@@ -39,4 +39,4 @@ Enhanced Data:
 ```
 
 ---
-*This enhanced dataset is built upon the ER_Magellan benchmarks from the DeepMatcher paper.*
+*This enhanced dataset is built upon the ER_Magellan benchmarks from [the DeepMatcher paper](https://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf).*
