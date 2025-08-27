@@ -2,7 +2,7 @@
 
 ## Overview
 
-This dataset is the enhanced version of the standard ER_Magellan benchmarks used in the DeepMatcher paper ([original datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)). The enhanced version is performed using our multi-agent information enhancement module with three different large language models: [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V2), [Llama3](https://github.com/meta-llama/llama3), and [Mistral](https://github.com/mistralai/mistral-inference).
+This dataset is the enhanced version of the standard ER_Magellan benchmarks ([original datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)) used in the DeepMatcher paper. The enhanced version is performed using our multi-agent information enhancement module with three different large language models: [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V2), [Llama3](https://github.com/meta-llama/llama3), and [Mistral](https://github.com/mistralai/mistral-inference).
 
 ## Dataset Structure
 ```bash
